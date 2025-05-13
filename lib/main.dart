@@ -611,7 +611,6 @@ class _ProfilePageState extends State<ProfilePage> {
   int age = 21;
   String sexe = 'Femme';
   List<String> antecedents = ['Eczéma', 'Allergie au pollen'];
-
   // Contrôleurs pour les champs de texte
   final TextEditingController _nomController = TextEditingController();
   final TextEditingController _emailController = TextEditingController();
