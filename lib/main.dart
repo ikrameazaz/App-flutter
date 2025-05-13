@@ -606,10 +606,10 @@ class ProfilePage extends StatefulWidget {
 
 class _ProfilePageState extends State<ProfilePage> {
   // Valeurs par défaut pour simulation
-  String nom = 'Martin Dupont';
-  String email = 'martin.dupont@exemple.com';
-  int age = 35;
-  String sexe = 'Homme';
+  String nom = 'Ikrame Azaz';
+  String email = 'Ikrame.azaz@exemple.com';
+  int age = 21;
+  String sexe = 'Femme';
   List<String> antecedents = ['Eczéma', 'Allergie au pollen'];
 
   // Contrôleurs pour les champs de texte
